@@ -114,13 +114,6 @@ pip install opencv-python
 python3 solution.py
 ```
 
-## Updates...
 
-br>
-
-
-<div align="center">
-    <img src="profile.png" alt="gitchat profile">
-</div>
 
 
